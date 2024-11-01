@@ -1,0 +1,2455 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: taugun\n"
+"POT-Creation-Date: 2019-06-14 16:49+0530\n"
+"PO-Revision-Date: 2018-04-27 12:20+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_TW\n"
+"X-Poedit-KeywordsList: __;__(;_e;_x;esc_html_e;esc_attr_e;esc_html__;esc_attr__\n"
+"X-Poedit-SearchPath-0: inc\n"
+"X-Poedit-SearchPath-1: esf.php\n"
+"X-Poedit-SearchPath-2: templates\n"
+
+#: inc/abstracts/class-esf-settings-page.php:157
+msgid "Your settings have been saved"
+msgstr ""
+
+#: inc/abstracts/class-esf-settings-page.php:175
+msgid "Your settings have been reset"
+msgstr ""
+
+#: inc/admin/class-esf-admin-ajax.php:46 inc/admin/class-esf-admin-ajax.php:92
+#: inc/admin/class-esf-admin-ajax.php:134
+#: inc/admin/class-esf-admin-ajax.php:157
+msgid "Invalid Request"
+msgstr ""
+
+#: inc/admin/class-esf-admin-ajax.php:171
+msgid "No Events found"
+msgstr ""
+
+#: inc/admin/menu/class-esf-menu-management.php:45
+#: inc/admin/menu/class-esf-menu-management.php:46
+#: inc/admin/menu/pages/class-esf-locations.php:124
+#: inc/class-esf-register-post-type.php:304
+msgid "Locations"
+msgstr ""
+
+#: inc/admin/menu/class-esf-menu-management.php:55
+#: inc/admin/menu/class-esf-menu-management.php:56
+#: inc/admin/menu/pages/class-esf-organizers.php:117
+#: inc/class-esf-register-post-type.php:321
+msgid "Organizers"
+msgstr ""
+
+#: inc/admin/menu/class-esf-menu-management.php:65
+#: inc/admin/menu/class-esf-menu-management.php:66
+#: inc/admin/menu/class-esf-post-type-handler.php:214
+#: inc/class-esf-install.php:51
+msgid "Settings"
+msgstr ""
+
+#: inc/admin/menu/class-esf-post-type-handler.php:92
+#: templates/single-event.php:119
+msgid "Start Date"
+msgstr ""
+
+#: inc/admin/menu/class-esf-post-type-handler.php:93
+#: templates/single-event.php:123
+msgid "End Date"
+msgstr ""
+
+#: inc/admin/menu/class-esf-post-type-handler.php:94
+#: inc/class-esf-register-post-type.php:170
+msgid "Categories"
+msgstr ""
+
+#: inc/admin/menu/class-esf-post-type-handler.php:95
+#: inc/class-esf-register-post-type.php:213
+msgid "Tags"
+msgstr ""
+
+#: inc/admin/menu/class-esf-post-type-handler.php:99
+msgid "Date"
+msgstr ""
+
+#: inc/admin/menu/class-esf-post-type-handler.php:173
+#: inc/admin/menu/class-esf-post-type-handler.php:178
+msgid "View event"
+msgstr ""
+
+#: inc/admin/menu/class-esf-post-type-handler.php:183
+#: inc/admin/menu/class-esf-post-type-handler.php:188
+msgid "Preview event"
+msgstr ""
+
+#: inc/admin/menu/class-esf-post-type-handler.php:191
+msgid "M j, Y @ H:i"
+msgstr ""
+
+#: inc/admin/menu/class-esf-post-type-handler.php:195
+#: inc/admin/menu/class-esf-post-type-handler.php:198
+msgid "Event updated."
+msgstr ""
+
+#: inc/admin/menu/class-esf-post-type-handler.php:196
+msgid "Custom field updated."
+msgstr ""
+
+#: inc/admin/menu/class-esf-post-type-handler.php:197
+msgid "Custom field deleted."
+msgstr ""
+
+#: inc/admin/menu/class-esf-post-type-handler.php:199
+msgid "Event published."
+msgstr ""
+
+#: inc/admin/menu/class-esf-post-type-handler.php:200
+msgid "Event saved."
+msgstr ""
+
+#: inc/admin/menu/class-esf-post-type-handler.php:201
+msgid "Event submitted."
+msgstr ""
+
+#: inc/admin/menu/class-esf-post-type-handler.php:202
+#, php-format
+msgid "Event scheduled for: %s."
+msgstr ""
+
+#: inc/admin/menu/class-esf-post-type-handler.php:203
+msgid "Event draft updated."
+msgstr ""
+
+#: inc/admin/menu/class-esf-settings.php:436
+msgid "Day(s)"
+msgstr ""
+
+#: inc/admin/menu/class-esf-settings.php:437
+msgid "Week(s)"
+msgstr ""
+
+#: inc/admin/menu/class-esf-settings.php:438
+msgid "Month(s)"
+msgstr ""
+
+#: inc/admin/menu/class-esf-settings.php:439
+msgid "Year(s)"
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-locations.php:125
+#: inc/admin/menu/views/location-new.php:95
+msgid "Add Location"
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-locations.php:129
+#: inc/admin/menu/pages/class-esf-organizers.php:122
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-locations.php:133
+msgid "Search Locations"
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-locations.php:162
+#: inc/admin/menu/pages/class-esf-organizers.php:155
+#: inc/admin/menu/pages/class-esf-organizers.php:220
+msgid "You do not have permission to create Locations"
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-locations.php:167
+#: inc/admin/menu/pages/class-esf-locations.php:241
+#: inc/admin/menu/pages/class-esf-organizers.php:160
+#: inc/admin/menu/pages/class-esf-organizers.php:225
+msgid "Invalid POST Values"
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-locations.php:173
+#: inc/admin/menu/pages/class-esf-locations.php:251
+#: inc/admin/menu/pages/class-esf-organizers.php:166
+#: inc/admin/menu/pages/class-esf-organizers.php:235
+msgid "Name cannot be empty"
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-locations.php:177
+#: inc/admin/menu/pages/class-esf-locations.php:255
+msgid "Address Line 1 cannot be empty"
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-locations.php:181
+#: inc/admin/menu/pages/class-esf-locations.php:259
+msgid "City cannot be empty"
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-locations.php:185
+#: inc/admin/menu/pages/class-esf-locations.php:263
+msgid "State cannot be empty"
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-locations.php:189
+#: inc/admin/menu/pages/class-esf-locations.php:267
+msgid "Country cannot be empty"
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-locations.php:193
+#: inc/admin/menu/pages/class-esf-locations.php:271
+msgid "ZIP Code cannot be empty"
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-locations.php:197
+#: inc/admin/menu/pages/class-esf-locations.php:275
+msgid "Inavlid Image URL"
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-locations.php:218
+msgid "Location created successfully."
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-locations.php:236
+msgid "You do not have permission to edit Locations"
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-locations.php:247
+msgid "Cannot modify Location ID"
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-locations.php:299
+msgid "Location has been updated successfully."
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-organizers.php:118
+#: inc/admin/menu/views/organizer-new.php:79
+msgid "Add Organizer"
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-organizers.php:126
+msgid "Search Organizers"
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-organizers.php:170
+#: inc/admin/menu/pages/class-esf-organizers.php:239
+msgid "Please enter valid a Email"
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-organizers.php:174
+#: inc/admin/menu/pages/class-esf-organizers.php:243
+msgid "Please enter valid a Phone Number"
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-organizers.php:178
+#: inc/admin/menu/pages/class-esf-organizers.php:182
+#: inc/admin/menu/pages/class-esf-organizers.php:247
+#: inc/admin/menu/pages/class-esf-organizers.php:251
+msgid "Please enter valid a URL"
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-organizers.php:201
+msgid "Organizer created successfully."
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-organizers.php:231
+msgid "Location ID cannot be modified"
+msgstr ""
+
+#: inc/admin/menu/pages/class-esf-organizers.php:273
+msgid "Organizer has been updated successfully."
+msgstr ""
+
+#: inc/admin/menu/tabs/general.php:25
+msgid "General"
+msgstr ""
+
+#: inc/admin/menu/tabs/general.php:53
+msgid "Currency Settings"
+msgstr ""
+
+#: inc/admin/menu/tabs/general.php:58
+msgid "Currency"
+msgstr ""
+
+#: inc/admin/menu/tabs/general.php:65
+msgid "Currency Symbol Position"
+msgstr ""
+
+#: inc/admin/menu/tabs/general.php:69
+msgid "Left"
+msgstr ""
+
+#: inc/admin/menu/tabs/general.php:70
+msgid "Right"
+msgstr ""
+
+#: inc/admin/menu/tabs/general.php:71
+msgid "Left After a Space"
+msgstr ""
+
+#: inc/admin/menu/tabs/general.php:72
+msgid "Right After a Space"
+msgstr ""
+
+#: inc/admin/menu/tabs/general.php:77
+msgid "Decimal Separator"
+msgstr ""
+
+#: inc/admin/menu/tabs/general.php:83
+msgid "Number of Decimals"
+msgstr ""
+
+#: inc/admin/menu/tabs/general.php:89
+msgid "Thousand Separator"
+msgstr ""
+
+#: inc/admin/menu/tabs/general.php:100
+msgid "Permalink Settings"
+msgstr ""
+
+#: inc/admin/menu/tabs/general.php:104
+msgid "Custom Single Event Slug"
+msgstr ""
+
+#: inc/admin/menu/tabs/general.php:110
+msgid "Custom Category Slug"
+msgstr ""
+
+#: inc/admin/menu/tabs/general.php:116
+msgid "Custom Tag Slug"
+msgstr ""
+
+#: inc/admin/menu/tabs/help.php:24
+msgid "Help"
+msgstr ""
+
+#: inc/admin/menu/tabs/help.php:54
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/menu/tabs/help.php:55
+msgid "Please check the documentation as we have lots of information there. The documentation file can be found inside the documentation folder which you will find when you unzip the downloaded zip file."
+msgstr ""
+
+#: inc/admin/menu/tabs/help.php:56
+msgid "Contact Support"
+msgstr ""
+
+#: inc/admin/menu/tabs/help.php:57
+#, php-format
+msgid "For support, feature request or any help, please %s register and open a support ticket on our site"
+msgstr ""
+
+#: inc/admin/menu/views/edit-post/events.php:12
+msgid "Event Time"
+msgstr ""
+
+#: inc/admin/menu/views/edit-post/events.php:22
+msgid "to"
+msgstr ""
+
+#: inc/admin/menu/views/edit-post/events.php:38
+msgid "All Day"
+msgstr ""
+
+#: inc/admin/menu/views/edit-post/events.php:42
+msgid "Event Location"
+msgstr ""
+
+#: inc/admin/menu/views/edit-post/events.php:48
+msgid "Search a Location"
+msgstr ""
+
+#: inc/admin/menu/views/edit-post/events.php:57
+msgid "Event Organizer"
+msgstr ""
+
+#: inc/admin/menu/views/edit-post/events.php:63
+msgid "Search a Organizer"
+msgstr ""
+
+#: inc/admin/menu/views/edit-post/events.php:71
+msgid "Event Price"
+msgstr ""
+
+#: inc/admin/menu/views/edit-post/events.php:75
+msgid "Event Website"
+msgstr ""
+
+#: inc/admin/menu/views/html-settings-buttons.php:10
+msgid "Save changes"
+msgstr ""
+
+#: inc/admin/menu/views/html-settings-buttons.php:20
+msgid "Reset"
+msgstr ""
+
+#: inc/admin/menu/views/html-settings.php:13
+#: inc/privacy/class-esf-privacy.php:41
+msgid "Taugun"
+msgstr ""
+
+#: inc/admin/menu/views/location-edit.php:10
+msgid "Edit Location"
+msgstr ""
+
+#: inc/admin/menu/views/location-edit.php:15
+#: inc/admin/menu/views/location-new.php:15
+msgid "Location Name"
+msgstr ""
+
+#: inc/admin/menu/views/location-edit.php:18
+#: inc/admin/menu/views/location-new.php:18
+#: inc/admin/menu/views/organizer-edit.php:15
+#: inc/admin/menu/views/organizer-edit.php:18
+#: inc/admin/menu/views/organizer-new.php:15
+#: inc/admin/menu/views/organizer-new.php:18
+msgid "Name"
+msgstr ""
+
+#: inc/admin/menu/views/location-edit.php:23
+#: inc/admin/menu/views/location-edit.php:26
+#: inc/admin/menu/views/location-new.php:23
+#: inc/admin/menu/views/location-new.php:26
+#: inc/admin/menu/views/organizer-edit.php:23
+#: inc/admin/menu/views/organizer-edit.php:26
+#: inc/admin/menu/views/organizer-new.php:23
+#: inc/admin/menu/views/organizer-new.php:26
+msgid "Description"
+msgstr ""
+
+#: inc/admin/menu/views/location-edit.php:31
+#: inc/admin/menu/views/location-new.php:31
+msgid "Address Line1"
+msgstr ""
+
+#: inc/admin/menu/views/location-edit.php:34
+#: inc/admin/menu/views/location-new.php:34
+msgid "Address Line 1"
+msgstr ""
+
+#: inc/admin/menu/views/location-edit.php:39
+#: inc/admin/menu/views/location-new.php:39
+msgid "Address Line2"
+msgstr ""
+
+#: inc/admin/menu/views/location-edit.php:42
+#: inc/admin/menu/views/location-new.php:42
+msgid "Address Line 2"
+msgstr ""
+
+#: inc/admin/menu/views/location-edit.php:47
+#: inc/admin/menu/views/location-edit.php:50
+#: inc/admin/menu/views/location-new.php:47
+#: inc/admin/menu/views/location-new.php:50
+msgid "City"
+msgstr ""
+
+#: inc/admin/menu/views/location-edit.php:55
+#: inc/admin/menu/views/location-edit.php:58
+#: inc/admin/menu/views/location-new.php:55
+#: inc/admin/menu/views/location-new.php:58
+msgid "State"
+msgstr ""
+
+#: inc/admin/menu/views/location-edit.php:63
+#: inc/admin/menu/views/location-edit.php:66
+#: inc/admin/menu/views/location-new.php:63
+#: inc/admin/menu/views/location-new.php:66
+msgid "Country"
+msgstr ""
+
+#: inc/admin/menu/views/location-edit.php:71
+#: inc/admin/menu/views/location-edit.php:74
+#: inc/admin/menu/views/location-new.php:71
+#: inc/admin/menu/views/location-new.php:74
+msgid "ZIP Code"
+msgstr ""
+
+#: inc/admin/menu/views/location-edit.php:79
+#: inc/admin/menu/views/location-new.php:79
+#: inc/admin/menu/views/organizer-edit.php:31
+#: inc/admin/menu/views/organizer-new.php:31
+msgid "Image"
+msgstr ""
+
+#: inc/admin/menu/views/location-edit.php:83
+#: inc/admin/menu/views/location-edit.php:85
+#: inc/admin/menu/views/location-new.php:83
+#: inc/admin/menu/views/location-new.php:85
+#: inc/admin/menu/views/organizer-edit.php:35
+#: inc/admin/menu/views/organizer-edit.php:37
+#: inc/admin/menu/views/organizer-new.php:35
+#: inc/admin/menu/views/organizer-new.php:37
+msgid "Choose Image"
+msgstr ""
+
+#: inc/admin/menu/views/location-edit.php:84
+#: inc/admin/menu/views/location-new.php:84
+#: inc/admin/menu/views/organizer-edit.php:36
+#: inc/admin/menu/views/organizer-new.php:36
+msgid "Use Image"
+msgstr ""
+
+#: inc/admin/menu/views/location-edit.php:95
+msgid "Update Location"
+msgstr ""
+
+#: inc/admin/menu/views/location-new.php:10
+msgid "New Location"
+msgstr ""
+
+#: inc/admin/menu/views/organizer-edit.php:10
+msgid "Edit Organizer"
+msgstr ""
+
+#: inc/admin/menu/views/organizer-edit.php:46
+#: inc/admin/menu/views/organizer-edit.php:49
+#: inc/admin/menu/views/organizer-new.php:46
+#: inc/admin/menu/views/organizer-new.php:49
+msgid "Phone"
+msgstr ""
+
+#: inc/admin/menu/views/organizer-edit.php:54
+#: inc/admin/menu/views/organizer-edit.php:57
+#: inc/admin/menu/views/organizer-new.php:54
+#: inc/admin/menu/views/organizer-new.php:57
+msgid "Email ID"
+msgstr ""
+
+#: inc/admin/menu/views/organizer-edit.php:62
+#: inc/admin/menu/views/organizer-edit.php:65
+#: inc/admin/menu/views/organizer-new.php:62
+#: inc/admin/menu/views/organizer-new.php:65 templates/single-event.php:100
+#: templates/single-event.php:155
+msgid "Website"
+msgstr ""
+
+#: inc/admin/menu/views/organizer-edit.php:70
+#: inc/admin/menu/views/organizer-edit.php:73
+#: inc/admin/menu/views/organizer-new.php:70
+#: inc/admin/menu/views/organizer-new.php:73
+msgid "Additional Info"
+msgstr ""
+
+#: inc/admin/menu/views/organizer-edit.php:80
+msgid "Update Organizer"
+msgstr ""
+
+#: inc/admin/menu/views/organizer-new.php:10
+msgid "New Organizer"
+msgstr ""
+
+#: inc/admin/menu/wp-list-table/class-esf-locations-table.php:122
+#: templates/single-event.php:163
+msgid "Location"
+msgstr ""
+
+#: inc/admin/menu/wp-list-table/class-esf-locations-table.php:123
+#: inc/admin/menu/wp-list-table/class-esf-organizers-table.php:123
+#: templates/single-event.php:106
+msgid "Info"
+msgstr ""
+
+#: inc/admin/menu/wp-list-table/class-esf-locations-table.php:124
+#: inc/admin/menu/wp-list-table/class-esf-organizers-table.php:124
+msgid "Actions"
+msgstr ""
+
+#: inc/admin/menu/wp-list-table/class-esf-locations-table.php:142
+#: inc/admin/menu/wp-list-table/class-esf-organizers-table.php:142
+msgid "Delete"
+msgstr ""
+
+#: inc/admin/menu/wp-list-table/class-esf-locations-table.php:155
+#: inc/admin/menu/wp-list-table/class-esf-organizers-table.php:155
+msgid "All"
+msgstr ""
+
+#: inc/admin/menu/wp-list-table/class-esf-locations-table.php:156
+#: inc/admin/menu/wp-list-table/class-esf-organizers-table.php:156
+msgid "Published"
+msgstr ""
+
+#: inc/admin/menu/wp-list-table/class-esf-locations-table.php:221
+msgid "Sorry, you are not allowed to edit this Location."
+msgstr ""
+
+#: inc/admin/menu/wp-list-table/class-esf-organizers-table.php:122
+#: templates/single-event.php:82
+msgid "Organizer"
+msgstr ""
+
+#: inc/admin/menu/wp-list-table/class-esf-organizers-table.php:221
+msgid "Sorry, you are not allowed to edit this Organizer."
+msgstr ""
+
+#: inc/class-esf-pages.php:43
+msgid "Events Page"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:172
+msgid "Event categories"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:173 templates/single-event.php:147
+msgid "Category"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:175
+msgid "Search categories"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:176
+msgid "All categories"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:177
+msgid "Parent category"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:178
+msgid "Parent category:"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:179
+msgid "Edit category"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:180
+msgid "Update category"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:181
+msgid "Add new category"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:182
+msgid "New category name"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:183
+msgid "No categories found"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:215
+msgid "Event Tags"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:216 templates/single-event.php:139
+msgid "Tag"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:218
+msgid "Search tags"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:219
+msgid "All Tags"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:220
+msgid "Parent Tag"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:221
+msgid "Parent Tag:"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:222
+msgid "Edit Tag"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:223
+msgid "Update Tag"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:224
+msgid "Add new Tag"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:225
+msgid "New tag name"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:226
+msgid "No tags found"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:257
+#: inc/class-esf-register-post-type.php:259
+msgid "Events"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:258
+msgid "Event"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:261
+msgid "Add Event"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:262
+msgid "Add New Event"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:263 inc/esf-layout-functions.php:144
+msgid "Edit"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:264
+msgid "Edit Event"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:265
+msgid "New Event"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:266
+#: inc/class-esf-register-post-type.php:267
+msgid "View Event"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:268
+msgid "View Events"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:269
+msgid "Search Events"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:270
+msgid "No Data found"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:271
+msgid "No Data found in trash"
+msgstr ""
+
+#: inc/class-esf-register-post-type.php:273
+msgid "Here you can able to see list of Event"
+msgstr ""
+
+#: inc/esf-common-functions.php:194
+#, php-format
+msgid " (View Full %1$s Description Here: %2$s)"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:22
+msgid "United Arab Emirates dirham"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:23
+msgid "Afghan afghani"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:24
+msgid "Albanian lek"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:25
+msgid "Armenian dram"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:26
+msgid "Netherlands Antillean guilder"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:27
+msgid "Angolan kwanza"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:28
+msgid "Argentine peso"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:29
+msgid "Australian dollar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:30
+msgid "Aruban florin"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:31
+msgid "Azerbaijani manat"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:32
+msgid "Bosnia and Herzegovina convertible mark"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:33
+msgid "Barbadian dollar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:34
+msgid "Bangladeshi taka"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:35
+msgid "Bulgarian lev"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:36
+msgid "Bahraini dinar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:37
+msgid "Burundian franc"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:38
+msgid "Bermudian dollar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:39
+msgid "Brunei dollar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:40
+msgid "Bolivian boliviano"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:41
+msgid "Brazilian real"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:42
+msgid "Bahamian dollar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:43
+msgid "Bitcoin"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:44
+msgid "Bhutanese ngultrum"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:45
+msgid "Botswana pula"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:46
+msgid "Belarusian ruble (old)"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:47
+msgid "Belarusian ruble"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:48
+msgid "Belize dollar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:49
+msgid "Canadian dollar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:50
+msgid "Congolese franc"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:51
+msgid "Swiss franc"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:52
+msgid "Chilean peso"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:53
+msgid "Chinese yuan"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:54
+msgid "Colombian peso"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:55
+msgid "Costa Rican col&oacute;n"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:56
+msgid "Cuban convertible peso"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:57
+msgid "Cuban peso"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:58
+msgid "Cape Verdean escudo"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:59
+msgid "Czech koruna"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:60
+msgid "Djiboutian franc"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:61
+msgid "Danish krone"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:62
+msgid "Dominican peso"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:63
+msgid "Algerian dinar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:64
+msgid "Egyptian pound"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:65
+msgid "Eritrean nakfa"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:66
+msgid "Ethiopian birr"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:67
+msgid "Euro"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:68
+msgid "Fijian dollar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:69
+msgid "Falkland Islands pound"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:70
+msgid "Pound sterling"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:71
+msgid "Georgian lari"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:72
+msgid "Guernsey pound"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:73
+msgid "Ghana cedi"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:74
+msgid "Gibraltar pound"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:75
+msgid "Gambian dalasi"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:76
+msgid "Guinean franc"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:77
+msgid "Guatemalan quetzal"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:78
+msgid "Guyanese dollar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:79
+msgid "Hong Kong dollar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:80
+msgid "Honduran lempira"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:81
+msgid "Croatian kuna"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:82
+msgid "Haitian gourde"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:83
+msgid "Hungarian forint"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:84
+msgid "Indonesian rupiah"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:85
+msgid "Israeli new shekel"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:86
+msgid "Manx pound"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:87
+msgid "Indian rupee"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:88
+msgid "Iraqi dinar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:89
+msgid "Iranian rial"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:90
+msgid "Iranian toman"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:91
+msgid "Icelandic kr&oacute;na"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:92
+msgid "Jersey pound"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:93
+msgid "Jamaican dollar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:94
+msgid "Jordanian dinar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:95
+msgid "Japanese yen"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:96
+msgid "Kenyan shilling"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:97
+msgid "Kyrgyzstani som"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:98
+msgid "Cambodian riel"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:99
+msgid "Comorian franc"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:100
+msgid "North Korean won"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:101
+msgid "South Korean won"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:102
+msgid "Kuwaiti dinar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:103
+msgid "Cayman Islands dollar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:104
+msgid "Kazakhstani tenge"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:105
+msgid "Lao kip"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:106
+msgid "Lebanese pound"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:107
+msgid "Sri Lankan rupee"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:108
+msgid "Liberian dollar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:109
+msgid "Lesotho loti"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:110
+msgid "Libyan dinar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:111
+msgid "Moroccan dirham"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:112
+msgid "Moldovan leu"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:113
+msgid "Malagasy ariary"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:114
+msgid "Macedonian denar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:115
+msgid "Burmese kyat"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:116
+msgid "Mongolian t&ouml;gr&ouml;g"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:117
+msgid "Macanese pataca"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:118
+msgid "Mauritanian ouguiya"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:119
+msgid "Mauritian rupee"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:120
+msgid "Maldivian rufiyaa"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:121
+msgid "Malawian kwacha"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:122
+msgid "Mexican peso"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:123
+msgid "Malaysian ringgit"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:124
+msgid "Mozambican metical"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:125
+msgid "Namibian dollar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:126
+msgid "Nigerian naira"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:127
+msgid "Nicaraguan c&oacute;rdoba"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:128
+msgid "Norwegian krone"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:129
+msgid "Nepalese rupee"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:130
+msgid "New Zealand dollar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:131
+msgid "Omani rial"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:132
+msgid "Panamanian balboa"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:133
+msgid "Peruvian nuevo sol"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:134
+msgid "Papua New Guinean kina"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:135
+msgid "Philippine peso"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:136
+msgid "Pakistani rupee"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:137
+msgid "Polish z&#x142;oty"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:138
+msgid "Transnistrian ruble"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:139
+msgid "Paraguayan guaran&iacute;"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:140
+msgid "Qatari riyal"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:141
+msgid "Romanian leu"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:142
+msgid "Serbian dinar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:143
+msgid "Russian ruble"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:144
+msgid "Rwandan franc"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:145
+msgid "Saudi riyal"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:146
+msgid "Solomon Islands dollar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:147
+msgid "Seychellois rupee"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:148
+msgid "Sudanese pound"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:149
+msgid "Swedish krona"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:150
+msgid "Singapore dollar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:151
+msgid "Saint Helena pound"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:152
+msgid "Sierra Leonean leone"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:153
+msgid "Somali shilling"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:154
+msgid "Surinamese dollar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:155
+msgid "South Sudanese pound"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:156
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe dobra"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:157
+msgid "Syrian pound"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:158
+msgid "Swazi lilangeni"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:159
+msgid "Thai baht"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:160
+msgid "Tajikistani somoni"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:161
+msgid "Turkmenistan manat"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:162
+msgid "Tunisian dinar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:163
+msgid "Tongan pa&#x2bb;anga"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:164
+msgid "Turkish lira"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:165
+msgid "Trinidad and Tobago dollar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:166
+msgid "New Taiwan dollar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:167
+msgid "Tanzanian shilling"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:168
+msgid "Ukrainian hryvnia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:169
+msgid "Ugandan shilling"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:170
+msgid "United States (US) dollar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:171
+msgid "Uruguayan peso"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:172
+msgid "Uzbekistani som"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:173
+msgid "Venezuelan bol&iacute;var"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:174
+msgid "Vietnamese &#x111;&#x1ed3;ng"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:175
+msgid "Vanuatu vatu"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:176
+msgid "Samoan t&#x101;l&#x101;"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:177
+msgid "Central African CFA franc"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:178
+msgid "East Caribbean dollar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:179
+msgid "West African CFA franc"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:180
+msgid "CFP franc"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:181
+msgid "Yemeni rial"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:182
+msgid "South African rand"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:183
+msgid "Zambian kwacha"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:401
+msgid "Afghanistan"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:402
+msgid "&#197;land Islands"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:403
+msgid "Albania"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:404
+msgid "Algeria"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:405
+msgid "American Samoa"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:406
+msgid "Andorra"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:407
+msgid "Angola"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:408
+msgid "Anguilla"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:409
+msgid "Antarctica"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:410
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:411
+msgid "Argentina"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:412
+msgid "Armenia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:413
+msgid "Aruba"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:414
+msgid "Australia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:415
+msgid "Austria"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:416
+msgid "Azerbaijan"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:417
+msgid "Bahamas"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:418
+msgid "Bahrain"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:419
+msgid "Bangladesh"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:420
+msgid "Barbados"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:421
+msgid "Belarus"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:422
+msgid "Belgium"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:423
+msgid "Belau"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:424
+msgid "Belize"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:425
+msgid "Benin"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:426
+msgid "Bermuda"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:427
+msgid "Bhutan"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:428
+msgid "Bolivia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:429
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:430
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:431
+msgid "Botswana"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:432
+msgid "Bouvet Island"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:433
+msgid "Brazil"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:434
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:435
+msgid "British Virgin Islands"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:436
+msgid "Brunei"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:437
+msgid "Bulgaria"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:438
+msgid "Burkina Faso"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:439
+msgid "Burundi"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:440
+msgid "Cambodia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:441
+msgid "Cameroon"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:442
+msgid "Canada"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:443
+msgid "Cape Verde"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:444
+msgid "Cayman Islands"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:445
+msgid "Central African Republic"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:446
+msgid "Chad"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:447
+msgid "Chile"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:448
+msgid "China"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:449
+msgid "Christmas Island"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:450
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:451
+msgid "Colombia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:452
+msgid "Comoros"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:453
+msgid "Congo (Brazzaville)"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:454
+msgid "Congo (Kinshasa)"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:455
+msgid "Cook Islands"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:456
+msgid "Costa Rica"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:457
+msgid "Croatia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:458
+msgid "Cuba"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:459
+msgid "Cura&ccedil;ao"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:460
+msgid "Cyprus"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:461
+msgid "Czech Republic"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:462
+msgid "Denmark"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:463
+msgid "Djibouti"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:464
+msgid "Dominica"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:465
+msgid "Dominican Republic"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:466
+msgid "Ecuador"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:467
+msgid "Egypt"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:468
+msgid "El Salvador"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:469
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:470
+msgid "Eritrea"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:471
+msgid "Estonia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:472
+msgid "Ethiopia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:473
+msgid "Falkland Islands"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:474
+msgid "Faroe Islands"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:475
+msgid "Fiji"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:476
+msgid "Finland"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:477
+msgid "France"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:478
+msgid "French Guiana"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:479
+msgid "French Polynesia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:480
+msgid "French Southern Territories"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:481
+msgid "Gabon"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:482
+msgid "Gambia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:483
+msgid "Georgia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:484
+msgid "Germany"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:485
+msgid "Ghana"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:486
+msgid "Gibraltar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:487
+msgid "Greece"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:488
+msgid "Greenland"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:489
+msgid "Grenada"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:490
+msgid "Guadeloupe"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:491
+msgid "Guam"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:492
+msgid "Guatemala"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:493
+msgid "Guernsey"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:494
+msgid "Guinea"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:495
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:496
+msgid "Guyana"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:497
+msgid "Haiti"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:498
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:499
+msgid "Honduras"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:500
+msgid "Hong Kong"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:501
+msgid "Hungary"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:502
+msgid "Iceland"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:503
+msgid "India"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:504
+msgid "Indonesia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:505
+msgid "Iran"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:506
+msgid "Iraq"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:507
+msgid "Ireland"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:508
+msgid "Isle of Man"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:509
+msgid "Israel"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:510
+msgid "Italy"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:511
+msgid "Ivory Coast"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:512
+msgid "Jamaica"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:513
+msgid "Japan"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:514
+msgid "Jersey"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:515
+msgid "Jordan"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:516
+msgid "Kazakhstan"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:517
+msgid "Kenya"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:518
+msgid "Kiribati"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:519
+msgid "Kuwait"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:520
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:521
+msgid "Laos"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:522
+msgid "Latvia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:523
+msgid "Lebanon"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:524
+msgid "Lesotho"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:525
+msgid "Liberia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:526
+msgid "Libya"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:527
+msgid "Liechtenstein"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:528
+msgid "Lithuania"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:529
+msgid "Luxembourg"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:530
+msgid "Macao S.A.R., China"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:531
+msgid "Macedonia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:532
+msgid "Madagascar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:533
+msgid "Malawi"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:534
+msgid "Malaysia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:535
+msgid "Maldives"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:536
+msgid "Mali"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:537
+msgid "Malta"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:538
+msgid "Marshall Islands"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:539
+msgid "Martinique"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:540
+msgid "Mauritania"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:541
+msgid "Mauritius"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:542
+msgid "Mayotte"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:543
+msgid "Mexico"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:544
+msgid "Micronesia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:545
+msgid "Moldova"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:546
+msgid "Monaco"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:547
+msgid "Mongolia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:548
+msgid "Montenegro"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:549
+msgid "Montserrat"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:550
+msgid "Morocco"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:551
+msgid "Mozambique"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:552
+msgid "Myanmar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:553
+msgid "Namibia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:554
+msgid "Nauru"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:555
+msgid "Nepal"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:556
+msgid "Netherlands"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:557
+msgid "New Caledonia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:558
+msgid "New Zealand"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:559
+msgid "Nicaragua"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:560
+msgid "Niger"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:561
+msgid "Nigeria"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:562
+msgid "Niue"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:563
+msgid "Norfolk Island"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:564
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:565
+msgid "North Korea"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:566
+msgid "Norway"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:567
+msgid "Oman"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:568
+msgid "Pakistan"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:569
+msgid "Palestinian Territory"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:570
+msgid "Panama"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:571
+msgid "Papua New Guinea"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:572
+msgid "Paraguay"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:573
+msgid "Peru"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:574
+msgid "Philippines"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:575
+msgid "Pitcairn"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:576
+msgid "Poland"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:577
+msgid "Portugal"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:578
+msgid "Puerto Rico"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:579
+msgid "Qatar"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:580
+msgid "Reunion"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:581
+msgid "Romania"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:582
+msgid "Russia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:583
+msgid "Rwanda"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:584
+msgid "Saint Barth&eacute;lemy"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:585
+msgid "Saint Helena"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:586
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:587
+msgid "Saint Lucia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:588
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:589
+msgid "Saint Martin (Dutch part)"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:590
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:591
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:592
+msgid "San Marino"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:593
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:594
+msgid "Saudi Arabia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:595
+msgid "Senegal"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:596
+msgid "Serbia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:597
+msgid "Seychelles"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:598
+msgid "Sierra Leone"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:599
+msgid "Singapore"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:600
+msgid "Slovakia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:601
+msgid "Slovenia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:602
+msgid "Solomon Islands"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:603
+msgid "Somalia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:604
+msgid "South Africa"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:605
+msgid "South Georgia/Sandwich Islands"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:606
+msgid "South Korea"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:607
+msgid "South Sudan"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:608
+msgid "Spain"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:609
+msgid "Sri Lanka"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:610
+msgid "Sudan"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:611
+msgid "Suriname"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:612
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:613
+msgid "Swaziland"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:614
+msgid "Sweden"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:615
+msgid "Switzerland"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:616
+msgid "Syria"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:617
+msgid "Taiwan"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:618
+msgid "Tajikistan"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:619
+msgid "Tanzania"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:620
+msgid "Thailand"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:621
+msgid "Timor-Leste"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:622
+msgid "Togo"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:623
+msgid "Tokelau"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:624
+msgid "Tonga"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:625
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:626
+msgid "Tunisia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:627
+msgid "Turkey"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:628
+msgid "Turkmenistan"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:629
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:630
+msgid "Tuvalu"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:631
+msgid "Uganda"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:632
+msgid "Ukraine"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:633
+msgid "United Arab Emirates"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:634
+msgid "United Kingdom (UK)"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:635
+msgid "United States (US)"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:636
+msgid "United States (US) Minor Outlying Islands"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:637
+msgid "United States (US) Virgin Islands"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:638
+msgid "Uruguay"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:639
+msgid "Uzbekistan"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:640
+msgid "Vanuatu"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:641
+msgid "Vatican"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:642
+msgid "Venezuela"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:643
+msgid "Vietnam"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:644
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:645
+msgid "Western Sahara"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:646
+msgid "Samoa"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:647
+msgid "Yemen"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:648
+msgid "Zambia"
+msgstr ""
+
+#: inc/esf-default-common-functions.php:649
+msgid "Zimbabwe"
+msgstr ""
+
+#: inc/esf-layout-functions.php:147
+msgid "Delete Permanently"
+msgstr ""
+
+#: inc/privacy/class-esf-privacy.php:59
+msgid "This includes the basics of what personal data your store may be collecting, storing and sharing. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your store will vary."
+msgstr ""
+
+#: inc/privacy/class-esf-privacy.php:60
+msgid "WHAT DOES THE PLUGIN DO?"
+msgstr ""
+
+#: inc/privacy/class-esf-privacy.php:61
+msgid "Create Events and display the created events on the frontend."
+msgstr ""
+
+#: inc/privacy/class-esf-privacy.php:62
+msgid "WHAT WE COLLECT AND STORE?"
+msgstr ""
+
+#: inc/privacy/class-esf-privacy.php:63
+msgid "This plugin doesn't collect any personal information from the users."
+msgstr ""
+
+#: templates/archive-event.php:39
+msgid "Submit"
+msgstr ""
+
+#: templates/archive-event.php:87
+#, php-format
+msgid "%s Event(s)"
+msgstr ""
+
+#: templates/archive-event.php:104
+#, php-format
+msgid "%s Month Events"
+msgstr ""
+
+#: templates/archive-event.php:129 templates/archive-event.php:139
+msgid "All Events on this month has passed"
+msgstr ""
+
+#: templates/archive-event.php:161
+msgid "No Events Found"
+msgstr ""
+
+#: templates/single-event.php:88
+msgid "Phone Number"
+msgstr ""
+
+#: templates/single-event.php:94
+msgid "Email"
+msgstr ""
+
+#: templates/single-event.php:114
+msgid "Google Calendar"
+msgstr ""
+
+#: templates/single-event.php:115
+msgid "ICAL Export"
+msgstr ""
+
+#: templates/single-event.php:127
+msgid "Price"
+msgstr ""
+
+#: templates/single-event.php:128
+msgid "Free"
+msgstr ""

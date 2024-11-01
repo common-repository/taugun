@@ -1,0 +1,449 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:500&display=swap');
+.esf_shop_wrapper{
+    width:100%;
+    float:left;
+    background: #fff;
+    position:relative;
+}
+.esf_shop_content{
+    width:90%;
+    background: #fff;
+    position:relative;
+    margin:0px auto;
+    padding:0px;
+}
+
+/* Shop page header section filter fields */
+
+.esf_shop_header_field{
+    width:100%;
+    float:left;
+    margin-top:20px;
+    margin-bottom:10px;
+    padding:0px;
+    border-radius:5px;
+    border:1px solid #ccc;
+    min-height:50px;
+    background:#f1f1f1;
+}
+.esf_shop_header_field .esf_shop_event_filters{
+    float:left;
+}
+.esf_shop_header_field .esf_shop_view_option{
+    float:right;
+    position: relative;
+}
+.esf_shop_view_option .esf_drop_down{
+    position: relative;
+    width: 180px;
+    border: 1px solid #ccc;
+    height: 30px !important;
+    padding: 0 !important;
+    margin:10px 10px 0px 0px;
+    box-shadow: 0 -5px 10px 2px rgba(0, 0, 0, 0.03) inset;
+    font-size: 14px;
+    border-radius: 5px;
+    background:#fff;
+}
+.esf_drop_down ul{
+    margin:0;
+    padding:0;
+    width:100%;
+    display:block;
+}
+.esf_drop_down ul li{
+    list-style: none;
+    margin:0;
+    padding:3px 0;
+    color:#000;
+    font-family: 'Roboto', sans-serif;
+    background:url('../../../assets/images/others/arrow-217-10.png') no-repeat right 7px center;
+}
+.esf_drop_down ul li i{
+    color:#000070;
+    margin:0px 10px;
+}
+.esf_hidden_drop_down{
+    display:none;
+    position: absolute;
+    width: 180px;
+    border: 1px solid #ccc;
+    height: auto !important;
+    padding: 0 !important;
+    margin:7px 10px 0px 0px;
+    box-shadow: 0 -5px 10px 2px rgba(0, 0, 0, 0.03) inset;
+    font-size: 14px;
+    border-radius: 5px;
+    background:#fff;
+    z-index:1;
+}
+.esf_hidden_drop_down ul{
+    margin:0;
+    padding:0;
+    width:100%;
+    display:block;
+}
+.esf_hidden_drop_down ul li{
+    list-style: none;
+    margin:0;
+    padding:7px 0;
+    border-bottom:1px solid #ccc;
+    color:#000;
+    font-family: 'Roboto', sans-serif;
+    position: relative;    
+}
+.esf_hidden_drop_down ul li i{
+    color:#000070;
+    margin:0px 10px;
+}
+.esf_hidden_drop_down ul li:hover{
+    background:#000070;
+    color:#fff;
+    border-bottom:1px solid #000070;
+}
+.esf_hidden_drop_down ul li:hover i{
+    color:#fff;
+}
+.esf_hidden_drop_down ul li:last-child{
+    border-bottom: none;
+}
+.esf_shop_header_field input[type='text'],
+.esf_shop_header_field select,
+.esf_shop_header_field button{
+    box-shadow: 0 -5px 10px 2px rgba(0, 0, 0, 0.03) inset;
+    float: left;
+    font-size: 14px;
+    border-radius: 5px;
+    position: relative;
+    font-family: 'Roboto', sans-serif;    
+}
+
+.esf_shop_header_field input[type='text']{
+    width: 150px !important;
+    border: 1px solid #ccc;
+    height: 30px !important;
+    color: #666;
+    padding: 0 !important;
+    margin:10px 10px 0px 0px; 
+}
+.esf_shop_header_field select{
+    width: 150px !important;
+    border: 1px solid #ccc;
+    height: 30px !important;
+    background: #fff url('../../../assets/images/others/arrow-217-10.png') no-repeat right 7px center;
+    -moz-appearance: none;
+    appearance: none;
+    -webkit-appearance: none;
+    margin:10px 10px 0px 10px; 
+    color: #666;
+    padding: 0 !important;
+}
+.esf_shop_header_field button{
+    background:#000070;
+    border:none;
+    height: 30px !important;
+    margin:10px 10px 0px 0px;
+    color: #fff;
+    padding:  7px 15px !important;
+    margin-bottom: 0px;
+}
+.esf_shop_header_field button:hover{
+    background:#000070;
+    box-shadow:0 0 3px #000;
+}
+.esf_shop_header_field h2{
+    border-bottom: 1px dashed #138f30;
+    padding-bottom: 10px;
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 18px !important;
+    font-weight: 600 !important;
+    color: #222 !important;
+    text-transform: none !important;
+    text-align:center;    
+}
+
+
+/* Shop page view port */
+
+.esf_shop_content .esf_shop_view_port{
+    width:100%;
+    float:left;
+    position:relative;
+    margin:15px 0px 0px 0px;
+    padding:0;
+}
+.esf_shop_view_port table.esf_shop_month_view_table{
+    width: 100%;
+    border-collapse: collapse;
+    border-left: 1px solid #e0e0e0;
+    margin-top: 10px;
+    float: left;
+}
+table.esf_shop_month_view_table th{
+    background: #f3f3f3;
+    padding: 8px 0px 8px 0px;
+    border-top: 1px solid #e0e0e0;
+    border-right: 1px solid #e0e0e0;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: #333;
+    font-weight: 500;
+    text-transform: none;
+}
+table.esf_shop_month_view_table td{
+    background: #fff;
+    vertical-align: middle;
+    height: 60px;
+    border-right: 1px solid #e0e0e0;
+    border-bottom: 1px solid #e0e0e0;
+    padding: 0px;
+    text-align:center;
+    font-family: 'Roboto', sans-serif;
+}
+table.esf_shop_month_view_table tr:first-child td {
+    border-top: 1px solid #e0e0e0;
+}
+table.esf_shop_month_view_table td.esf_events_calendar_diff_month{
+    background: #f9f9f9;
+    opacity: 0.3;
+    cursor: default !important;
+    box-shadow: none !important;
+}
+table.esf_shop_month_view_table td.esf_events_calendar_diff_month a{
+    color:#999 !important;
+    text-decoration: none;
+    cursor: default;
+}
+table.esf_shop_month_view_table td.esf_current_date{
+    color:#000070 !important;
+    font-weight:bold;
+    font-size:16px;
+}
+
+table.esf_shop_month_view_table td.esf_event_presented_date{
+    background:#0fbf98 !important;
+    color:#FFF;
+    cursor: pointer;
+}
+table.esf_shop_month_view_table td.esf_event_presented_date:hover{
+    box-shadow:inset 0 0 3px #000;
+}
+table.esf_shop_month_view_table td.esf_events_day_grid a.esf_events_day{
+    color:#444;
+    cursor: default;
+    font-family: 'Roboto', sans-serif;
+}
+table.esf_shop_month_view_table td.esf_events_day_grid a.esf_events_day:hover{
+    text-decoration: none;
+    cursor: default;
+}
+table.esf_shop_month_view_table td.esf_event_presented_date a{
+    color:#FFF !important;
+}
+table.esf_shop_month_view_table td.esf_event_presented_date span{
+    display:block;
+    word-break: break-all;
+    padding: 3px;
+    line-height: normal;
+    font-family: 'Roboto', sans-serif;
+    color:#fff;
+}
+table.esf_shop_month_view_table td.esf_current_date a.esf_events_day{
+    color:#000070 !important;
+}
+table.esf_shop_month_view_table td.esf_current_date span{
+    color:#fff;
+}
+
+.esf_month_event_list{
+    width:100%;
+    float:left;
+    position:relative;
+    margin:15px 0px 0px 0px;
+    padding:0;
+    min-height:100px;
+    max-height:300px;
+    overflow: scroll;
+}
+.esf_shop_view_port h3{
+    color:#000;
+    text-align:left;
+    padding:10px 0px 10px 0px;
+    margin-top:15px;
+    font-size:22px;
+    font-weight:normal;
+    border-bottom:1px dashed #000070;
+    font-family: 'Roboto', sans-serif;
+    width:100%;
+    float:left;
+}
+.esf_month_event_list_view{
+    width:99%;
+    float:left;
+    position:relative;
+    border:2px solid #f6f6f6;
+    min-height:60px;
+    padding:0;
+    margin:5px 0px;
+}
+.esf_month_event_list_view .esf_month_event_date,
+.esf_month_event_list_view .esf_month_event_name,
+.esf_month_event_list_view .esf_month_event_image,
+.esf_month_event_list_view .esf_no_events{
+    float:left;
+}
+.esf_month_event_list_view .esf_month_event_date{
+    width:15%;
+    position: relative;
+}
+.esf_month_event_list_view .esf_month_event_date:after{
+    content:'';
+    width:2px;
+    height:35px;
+    top:20px;
+    right:0;
+    position: absolute;
+    background:#f6f6f6;
+}
+.esf_month_event_list_view .esf_month_event_name,
+.esf_month_event_list_view .esf_no_events{
+    width:70%;
+}
+.esf_month_event_list_view .esf_month_event_image{
+    width:15%;
+}
+.esf_month_event_list_view .esf_month_event_date h2,
+.esf_month_event_list_view .esf_month_event_date h4,
+.esf_month_event_list_view .esf_month_event_name h3,
+.esf_month_event_list_view .esf_month_event_name p{
+    font-family: 'Roboto', sans-serif;
+    line-height:normal;
+    text-transform: none;
+    text-decoration: none;
+    letter-spacing: 0;
+}
+.esf_month_event_list_view .esf_month_event_date h2{
+    color:#000070;
+    font-size:24px;
+    padding:0;
+    margin:10px 0px 0px 0px;
+    text-align:center;
+    border: none;    
+}
+.esf_month_event_list_view .esf_month_event_date h4{
+    color:#000;
+    font-size:18px;
+    padding:0px 0px 5px 0px;
+    margin:0px 0px 0px 0px;
+    text-align:center;   
+    border: none;
+    font-weight:normal;    
+}
+.esf_month_event_list_view .esf_month_event_name h3{
+    color:#000;
+    font-size:22px;
+    padding:0;
+    margin:15px 0px 2px 20px;
+    text-align:left;
+    border: none;    
+}
+
+.esf_month_event_list_view .esf_no_events h3{
+    color:#000;
+    font-size:22px;
+    padding:0;
+    margin:15px 0px 15px 15px;
+    text-align:center;
+    border: none; 
+} 
+.esf_month_event_list_view .esf_month_event_name h3 a{
+    color:#000;
+    font-size:22px;
+    padding:0;
+    margin:0;
+    text-align:left;
+    border: none;
+}
+.esf_month_event_list_view .esf_month_event_name p{
+    margin: 0px 0px 0px 20px;
+    padding: 0;
+    color: #b5b4b4;
+    font-size: 16px;
+}
+.esf_month_event_list_view .esf_month_event_image img{
+    width:100%;
+    min-height:75px;
+}
+@media screen and (max-width: 768px){
+    .esf_shop_header_field{
+        padding-bottom:10px;
+    }
+    .esf_shop_header_field .esf_shop_event_filters{
+        float:none;
+    }
+    .esf_shop_header_field .esf_shop_view_option{
+        float:none;
+    }
+    .esf_shop_view_option .esf_drop_down{
+        width:92%;
+        margin:10px 0px 0px 10px !important;    
+    }
+    .esf_hidden_drop_down{
+        width:92%;
+        margin:7px 0px 0px 10px !important; 
+    }
+    .esf_shop_header_field input[type='text'],
+    .esf_shop_header_field select,
+    .esf_shop_header_field button{
+        width:92% !important;
+        margin:10px 0px 0px 10px !important;
+        float:none;
+    }
+    table.esf_shop_month_view_table td {
+        height: 50px;
+        padding: 0px;
+    }
+    .esf_month_event_list_view{
+        width:92%;
+        float:left;
+        position:relative;
+        border:2px solid #f6f6f6;
+        min-height:60px;
+        padding:0;
+        margin:10px 0px 0px 10px !important;
+    }
+    .esf_month_event_list_view .esf_month_event_date{
+        width:100%;
+        border-bottom:2px solid #f6f6f6;
+        position: relative;
+    }
+    .esf_month_event_list_view .esf_month_event_date:after{
+        content:'';
+        width:0px;
+        height:35px;
+        top:20px;
+        right:0;
+        position: absolute;
+        background:#f6f6f6;
+    }
+    .esf_month_event_list_view .esf_month_event_name{
+        width:100%;
+    }
+    .esf_month_event_list_view .esf_month_event_image{
+        width:100%;
+    }
+    .esf_month_event_list_view .esf_no_events{
+        width:100%;
+    }
+    .esf_month_event_list_view .esf_month_event_name p{
+        margin: 0px 0px 10px 15px;
+        padding: 0;
+        color: #b5b4b4;
+        font-size: 16px;
+    }
+    .esf_month_event_list_view .esf_month_event_image img{
+        width:100%;
+        height:auto
+    }
+
+} 
